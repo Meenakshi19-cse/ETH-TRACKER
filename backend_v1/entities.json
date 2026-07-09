@@ -1,0 +1,169 @@
+{
+  "version": 2,
+  "generatedAt": "",
+  "entities": [
+    {
+      "id": "tornado_eth_0_1",
+      "name": "Tornado Cash: 0.1 ETH",
+      "category": "mixer",
+      "jurisdiction": null,
+      "addresses": [
+        "0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc"
+      ],
+      "tags": [
+        "tornado",
+        "mixer"
+      ],
+      "notes": "Known Tornado Cash ETH pool contract"
+    },
+    {
+      "id": "tornado_eth_1",
+      "name": "Tornado Cash: 1 ETH",
+      "category": "mixer",
+      "jurisdiction": null,
+      "addresses": [
+        "0x47CE0c6eD5B0Ce3D3A51fdb1C52DC66a7c3c2936"
+      ],
+      "tags": [
+        "tornado",
+        "mixer"
+      ],
+      "notes": "Known Tornado Cash ETH pool contract"
+    },
+    {
+      "id": "tornado_eth_10",
+      "name": "Tornado Cash: 10 ETH",
+      "category": "mixer",
+      "jurisdiction": null,
+      "addresses": [
+        "0x910Cbd523D972eb0a6f4cAe4618aD62622b39DbF"
+      ],
+      "tags": [
+        "tornado",
+        "mixer"
+      ],
+      "notes": "Known Tornado Cash ETH pool contract"
+    },
+    {
+      "id": "tornado_eth_100",
+      "name": "Tornado Cash: 100 ETH",
+      "category": "mixer",
+      "jurisdiction": null,
+      "addresses": [
+        "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291"
+      ],
+      "tags": [
+        "tornado",
+        "mixer"
+      ],
+      "notes": "Known Tornado Cash ETH pool contract"
+    },
+    {
+      "id": "tornado_router",
+      "name": "Tornado Cash: Router",
+      "category": "mixer",
+      "jurisdiction": null,
+      "addresses": [
+        "0xD90e2f925DA726b50C4Ed8D0Fb90Ad053324F31b"
+      ],
+      "tags": [
+        "tornado",
+        "router"
+      ],
+      "notes": "Known Tornado Cash router contract"
+    },
+    {
+      "id": "binance_hot_1",
+      "name": "Binance",
+      "category": "exchange",
+      "jurisdiction": "Global",
+      "addresses": [
+        "0x28C6c06298d514Db089934071355E5743bf21d60",
+        "0x21a31Ee1afC51d94C2eFcCAa2092aD1028285549",
+        "0xDFd5293D8e347dFe59E90eFd55b2956a1343963d",
+        "0x56Eddb7aa87536c09CCc2793473599fD21A8b17F",
+        "0x9696f59E4d72E237BE84fFD425DCaD154Bf96976",
+        "0x4E9ce36E442e55EcD9025B9a6E0D88485d628A67",
+        "0xBE0eB53F46cd790Cd13851d5EFf43D12404d33E8",
+        "0xF977814e90dA44bFA03b6295A0616a897441aceC"
+      ],
+      "tags": [
+        "exchange",
+        "kyc",
+        "cex"
+      ],
+      "notes": "Binance Hot Wallets"
+    },
+    {
+      "id": "coinbase_hot_1",
+      "name": "Coinbase",
+      "category": "exchange",
+      "jurisdiction": "US",
+      "addresses": [
+        "0x71660c4005BA85c37ccec55d0C4493E66Fe775d3",
+        "0x503828976D22510aad0201ac7EC88293211D23Da",
+        "0xddfAbCdc4D8FfC6d5beaf154f18B778f892A0740",
+        "0x3cD751E6b0078Be393132286c442345e68FF0aA8",
+        "0xb5d85CBf7cB3EE0D56b3bB207D5Fc4B82f43F511",
+        "0xA9D1e08C7793af67e9d92fe308d5697FB81d3E43"
+      ],
+      "tags": [
+        "exchange",
+        "kyc",
+        "cex"
+      ],
+      "notes": "Coinbase Hot Wallets"
+    },
+    {
+      "id": "kraken_hot_1",
+      "name": "Kraken",
+      "category": "exchange",
+      "jurisdiction": "US",
+      "addresses": [
+        "0x2910543Af39abA0Cd09dBb2D50200b3E800A63D2",
+        "0x0A869d79a7052C7f1b55a8EbAbbEa3420F0D1E13",
+        "0xDA9dfA130Df4dE4673b89022EE50ff26f6EA73Cf",
+        "0x267be1C1D684F78cb4F6a176C4911b741E4Ffdc0"
+      ],
+      "tags": [
+        "exchange",
+        "kyc",
+        "cex"
+      ],
+      "notes": "Kraken Hot Wallets"
+    },
+    {
+      "id": "okx_hot_1",
+      "name": "OKX",
+      "category": "exchange",
+      "jurisdiction": "Global",
+      "addresses": [
+        "0x6cC5F688a315f3dC28A7781717a9A798a59fDA7b",
+        "0x236F9F97e0E62388479bf9E5BA4889e46B0273C3",
+        "0xA7efAe728D2936e78BDA97dc267687568dD593f3"
+      ],
+      "tags": [
+        "exchange",
+        "kyc",
+        "cex"
+      ],
+      "notes": "OKX Hot Wallets"
+    },
+    {
+      "id": "kucoin_hot_1",
+      "name": "KuCoin",
+      "category": "exchange",
+      "jurisdiction": "Global",
+      "addresses": [
+        "0xD6216fC19DB775Df9774a6E33526131dA7D19a2c",
+        "0x1692E170361cEfd1Eb7240Ec13D048Fd9aF6d667"
+      ],
+      "tags": [
+        "exchange",
+        "kyc",
+        "cex"
+      ],
+      "notes": "KuCoin Hot Wallets"
+    }
+  ]
+}
